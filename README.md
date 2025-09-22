@@ -24,6 +24,9 @@
 - 📄 Know about my experiences [www.linkedin.com/in/ sumit-kumar-2bb99428a](www.linkedin.com/in/ sumit-kumar-2bb99428a)
 
 - ⚡ Fun fact **I think I am Funny**
+---------
+![image](https://giphy.com/GitHub)
+---------
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
