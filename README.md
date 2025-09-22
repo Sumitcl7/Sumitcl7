@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Earthpulse-ai](https://github.com/Sumitcl7/earthpulse-ai)
 
-- 🤝 I’m looking for help with **Synapse**
+- 🤝 I’m looking for help with [Synapse](https://github.com/Sumitcl7/Synapse)
 
 - 👨‍💻 All of my projects are available at [https://lovable.dev/projects/57728e04-1c57-49b2-9729-630fe5a2be73](https://lovable.dev/projects/57728e04-1c57-49b2-9729-630fe5a2be73)
 
