@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sumit🔱</h1>
 <h3 align="center">CS Studend</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitcl7&label=Profile%20views&color=0e75b6&style=flat" alt="sumitcl7" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitcl7" alt="sumitcl7" /></a> </p>
 
 - 🔭 I’m currently working on [Earthpulse-ai](https://github.com/Sumitcl7/earthpulse-ai)
@@ -19,13 +21,14 @@
 
 - 📫 How to reach me **krsumits7017@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ sumit-kumar-2bb99428a]
+- 📄 Know about my experiences [www.linkedin.com/in/ sumit-kumar-2bb99428a](www.linkedin.com/in/ sumit-kumar-2bb99428a)
 
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sumit kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit kumar" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://hashnode.com/@sumitcl7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@sumitcl7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,6 +37,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitcl7&show_icons=true&locale=en&layout=compact" alt="sumitcl7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitcl7&show_icons=true&locale=en" alt="sumitcl7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitcl7&" alt="sumitcl7" /></p>
+
 
 
 <!---
