@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **I think I am Funny**
 ---------
-![image](https://giphy.com/gifs/loading-chargement-andyman-0U7bWQK9s75PjRKcHz)
+![Image](https://giphy.com/gifs/loading-chargement-andyman-0U7bWQK9s75PjRKcHz)
 ---------
 
 <h3 align="left">Connect with me:</h3>
