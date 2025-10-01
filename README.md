@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit🔱</h1>
-<h3 align="center">CS Studend</h3>
+<h3 align="center">CS Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitcl7&label=Profile%20views&color=0e75b6&style=flat" alt="sumitcl7" /> </p>
 
