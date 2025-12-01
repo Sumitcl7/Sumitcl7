@@ -5,25 +5,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitcl7" alt="sumitcl7" /></a> </p>
 
-- 🔭 I’m currently working on [Earthpulse-ai](https://github.com/Sumitcl7/earthpulse-ai)
+-  I’m currently working on [Earthpulse-ai](https://github.com/Sumitcl7/earthpulse-ai)
 
-- 🌱 I’m currently learning **Backend Frameworks like next.js and Ml Models(Scrapy, spaCy, HuggingFace, OpenCV)**
+-  I’m currently learning **Backend Frameworks like next.js and Ml Models(Scrapy, spaCy, HuggingFace, OpenCV)**
 
-- 👯 I’m looking to collaborate on [Earthpulse-ai](https://github.com/Sumitcl7/earthpulse-ai)
+-  I’m looking to collaborate on [Earthpulse-ai](https://github.com/Sumitcl7/earthpulse-ai)
 
-- 🤝 I’m looking for help with [Synapse](https://github.com/Sumitcl7/Synapse)
+-  I’m looking for help with [Synapse](https://github.com/Sumitcl7/Synapse)
 
-- 👨‍💻 All of my projects are available at [https://lovable.dev/projects/57728e04-1c57-49b2-9729-630fe5a2be73](https://lovable.dev/projects/57728e04-1c57-49b2-9729-630fe5a2be73)
+-  All of my projects are available at [https://lovable.dev/projects/57728e04-1c57-49b2-9729-630fe5a2be73](https://lovable.dev/projects/57728e04-1c57-49b2-9729-630fe5a2be73)
 
-- 📝 I regularly write articles on [https://serverlessclouds.hashnode.dev/serverless-containers-when-and-why-to-use-aws-fargate-over-lambda](https://serverlessclouds.hashnode.dev/serverless-containers-when-and-why-to-use-aws-fargate-over-lambda)
+-  I regularly write articles on [https://serverlessclouds.hashnode.dev/serverless-containers-when-and-why-to-use-aws-fargate-over-lambda](https://serverlessclouds.hashnode.dev/serverless-containers-when-and-why-to-use-aws-fargate-over-lambda)
 
-- 💬 Ask me about **Django, React, Express,**
+-  Ask me about **Django, React, Express,**
 
-- 📫 How to reach me **krsumits7017@gmail.com**
+-  How to reach me **krsumits7017@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ sumit-kumar-2bb99428a](www.linkedin.com/in/ sumit-kumar-2bb99428a)
+-  Know about my experiences [www.linkedin.com/in/ sumit-kumar-2bb99428a](www.linkedin.com/in/ sumit-kumar-2bb99428a)
 
-- ⚡ Fun fact **I think I am Funny**
+-  Fun fact **I think I am Funny**
 ---------
 ![Image](https://github.com/Sumitcl7/Sumitcl7/blob/main/nasa--hI5dX2ObAs-unsplash%20(1).jpg?raw=true)
 ---------
