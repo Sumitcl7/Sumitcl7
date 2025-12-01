@@ -1,4 +1,4 @@
-# Sumit Kumar (sumitcl7)
+# Sumit| CS student
 
 ## Summary
 I am a Computer Science student with a strong interest in backend engineering, cloud-native development, and applied machine learning. My work focuses on building reliable systems, scalable architectures, and practical AI-powered applications.
