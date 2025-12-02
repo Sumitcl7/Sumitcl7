@@ -1,28 +1,78 @@
-name: Activity Radar Minimal
+name: Activity Radar
 
-# <-- add this block
+# allow workflow to write repo contents (needed to push generated image)
 permissions:
   contents: write
 
 on:
+  workflow_dispatch:    # manual run
   schedule:
-    - cron: "0 1 * * *"
-  workflow_dispatch:
-...
+    - cron: "0 1 * * *" # daily at 01:00 UTC (optional)
 
-
-on:
-  workflow_dispatch:
+env:
+  # change this if your default branch is not 'main'
+  MAIN_BRANCH: main
+  # change this to your github username if needed
+  TARGET_USER: sumitcl7
+  OUT_PATH: assets/activity_radar.svg
 
 jobs:
-  ok:
+  generate:
     runs-on: ubuntu-latest
-    steps:
-      - run: echo "Workflows are enabled and detected"
 
-            - name: Checkout
+    steps:
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          # persist credentials so git push can use the injected GITHUB_TOKEN
           persist-credentials: true
           fetch-depth: 0
 
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyGithub matplotlib
+
+      - name: Generate activity radar
+        env:
+          TARGET_USER: ${{ env.TARGET_USER }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUT: ${{ env.OUT_PATH }}
+        run: |
+          # ensure assets directory exists
+          mkdir -p assets
+
+          # run the generator script
+          python scripts/generate_activity_radar.py
+
+          # list generated file (for logs)
+          echo "Generated file list:"
+          ls -la assets || true
+
+      - name: Commit and push generated image (if changed)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          BRANCH: ${{ env.MAIN_BRANCH }}
+        run: |
+          # configure git
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # stage file(s)
+          git add assets/activity_radar.svg || true
+
+          # commit only if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update activity_radar.svg"
+            # push using token in URL (works reliably inside Actions)
+            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${REPO}.git HEAD:${BRANCH}
+            echo "Pushed updated activity_radar.svg to ${BRANCH}"
+          fi
