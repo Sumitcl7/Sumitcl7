@@ -1,5 +1,16 @@
 name: Activity Radar Minimal
 
+# <-- add this block
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+...
+
+
 on:
   workflow_dispatch:
 
@@ -8,3 +19,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "Workflows are enabled and detected"
+
+            - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
