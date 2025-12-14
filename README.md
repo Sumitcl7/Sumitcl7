@@ -39,9 +39,5 @@ Website: **https://sumit673.vercel.app/**
 
 ---
 
-## Activity Overview  
-Below is my activity radar showing the distribution of my contributions across commits, issues, pull requests, and code reviews.
-
-![Activity Radar](assets/activity_radar.svg)
 
 "Engineering is capitalism’s purest form — tools building tools for compounding output."
