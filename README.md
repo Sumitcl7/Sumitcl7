@@ -6,9 +6,9 @@ I am a Computer Science student with a strong interest in backend engineering, c
 ---
 
 ## Skills
-- Backend Development: FastAPI, Pydantic, PostgresSQL. Node.js, Express, REST APIs  
-- Cloud & DevOps: Docker, Kubernetes, AWS, Terraform 
-- Machine Learning & Data: Python, scikit-learn, PyTorch, OpenCV, Pandas  
+- Backend Development: FastAPI, Pydantic, PostgresSQL, Node.js, Express, REST APIs  
+- Cloud & DevOps: Docker, Kubernetes, AWS, Terraform, Azure 
+- Machine Learning & Data: Python, scikit-learn, PyTorch, OpenCV, Pandas ,ResNest-18 
 - Frontend: React, Next.js ,Typescript 
 - Other: Git, CI/CD, Linux, Postman  
 
